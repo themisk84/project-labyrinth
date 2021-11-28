@@ -1,13 +1,10 @@
 # Project Labyrinth
-
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+ In this week's project, which was a pair programming by Efthymios Karakasis ans Helena Wiklund, we have to build an text-based game app.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+The app is built with React and Redux. The app receives game actions from a backend API. We used thunks to get the information from the API and interact with Redux store.
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://technigo-maze.netlify.app/ 
